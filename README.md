@@ -61,7 +61,7 @@ Author:: Vinicius Alvarenga ( <a href="mailto:vini@codebest.io">vini@codebest.io
 
 The MIT License (MIT)
 
-Copyright (c) 2018 Diogo Neves
+Copyright (c) 2019 Vinicius Alvarenga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -49,8 +49,8 @@ devops intervention.
 
 A developer can with this library, change a configuration property and reconfigure its workloads probability.
 
-In practice this could mean experimenting gradually a new query to the DB, gradually transit from legacy to new code, 
-gradually test a group of new features ... 
+In practice this could mean gradually experimenting a new query to the DB, gradually transitioning from legacy to new code, 
+gradually testing a group of new features ... 
  
 
 ## Author
@@ -75,7 +75,7 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE

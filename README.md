@@ -57,7 +57,7 @@ gradually testing a group of new features ...
 
 Author:: Vinicius Alvarenga ( <a href="mailto:vini@codebest.io">vini@codebest.io</a> )
 
-## Licence
+## License
 
 The MIT License (MIT)
 
